@@ -1,5 +1,6 @@
 # Repeated-Remover
 A small application that can help you remove the repeated files. Write in Python 2.7.
+Cross-platform.
 
 ## Release notes
   * 2015-07-09 Alpha-1
