@@ -6,7 +6,7 @@ A small application that can help you remove the repeated files. Write in Python
     1. First release
 
 ## Known bugs
-  * Will found some wrong targets when there are too many files
+  * Will found some wrong targets when the files name are too long 
 
 ##How to build?
 ###Step
